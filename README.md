@@ -1,7 +1,5 @@
 # Xerium Player
 
-![Welcome]
-
 Xerium Player is an audio visualizer that turns your music into a mesmerizing visual experience. After a year in hiatus for personal reasons, I've decided to enhance and share this project with you. Enjoy the magic of music visualization, and with your support, I plan to release more exciting versions!
 
 ## Table of Contents
