@@ -6,7 +6,7 @@ Xerium Player is an audio visualizer that turns your music into a mesmerizing vi
 
 - [Presets](#presets)
 - [Help Guide](#help-guide)
-  - [Version 1.0.0](#version-1.0.0)
+  - [Version 1.0.0](#version-100)
   - [Graphical User Interface (GUI)](#graphical-user-interface-gui)
   - [Change Library Path](#change-library-path)
 - [Contact](#contact)
