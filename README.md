@@ -43,7 +43,6 @@ If you wish to switch your music library, follow these steps:
 
 Have questions, suggestions, or just want to share your experience? Feel free to reach out!
 
-- **Discord User:** Flendoh
 - **Mail:** mflendoh2006@gmail.com
 
 ## Note
